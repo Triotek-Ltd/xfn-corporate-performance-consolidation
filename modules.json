@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "xfn11_2",
+    "module_label": "XFN.11.2 - Consolidation & Benchmarking",
+    "module_title": "Consolidation & Benchmarking",
+    "module_slug": "consolidation_and_benchmarking",
+    "app_code": "xfn11",
+    "app_label": "XFN 11 - Corporate Performance Consolidation",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn11_3",
+    "module_label": "XFN.11.3 - Insight & Dashboard Generation",
+    "module_title": "Insight & Dashboard Generation",
+    "module_slug": "insight_and_dashboard_generation",
+    "app_code": "xfn11",
+    "app_label": "XFN 11 - Corporate Performance Consolidation",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn11_1",
+    "module_label": "XFN.11.1 - KPI Data Collection",
+    "module_title": "KPI Data Collection",
+    "module_slug": "kpi_data_collection",
+    "app_code": "xfn11",
+    "app_label": "XFN 11 - Corporate Performance Consolidation",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  }
+]
